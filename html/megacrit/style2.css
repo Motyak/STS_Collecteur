@@ -1,0 +1,45 @@
+html {
+  height: 100%;  /* Fix: android chrome bug. */
+}
+
+body {
+  background-color: black;
+  background-image: url("img/background.jpg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  margin-bottom: 10em;
+}
+
+@font-face {
+  font-family: "Kreon";
+  src: url("fonts/Kreon-Regular.ttf");
+}
+@font-face {
+  font-family: "Kreon-Light";
+  src: url("fonts/Kreon-Light.ttf");
+}
+
+p, h3, h4, h5, ul, li, #privacy {
+  color: #fff6e2;  /* Cream colored */
+  font-family: "Kreon-Light";
+  font-size: 18px;
+}
+
+h1, h2 {
+  text-align: center;
+  color: #ffd553; /* gold */
+  text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black, 0 0 0.4em black;
+  /* TODO: use webkit or something for text outlines instead of this. */
+  font-family: "Kreon";
+}
+
+.shadowblock {
+  background: rgba(0,0,0,0.75);
+  margin-bottom: 1.2em;
+  padding: 1em 1em 1em 1em;
+}

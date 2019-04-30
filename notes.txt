@@ -1,12 +1,27 @@
-Role du client :
--Se connecter a la BDD (le client est unique/permet de s'authentifier)
--Connaitre le chemin du jeu (a partir du processus SlayTheSpire.exe)
+﻿Role du client :
+-Connaitre le chemin du jeu
 -Regarder le contenu du fichier log pour savoir quand faire le decodage et l'envoi de la save
 -Decoder la save (Base64 -> text au format JSON)
--Envoyer le fichier JSON a la BDD, id_utilisateur->save
+-Envoyer le fichier JSON au web server, id_utilisateur->save
+-clic droit sur l'icone du tray pour copier son id
 (Différents etats : En attente lancement du jeu,En marche)
 
 Role du site :
 -S'authentifier avec l'id
 -Afficher certains infos du JSON
+-Pouvoir creer une salle ? (avec 2 joueurs pour l'instant)
 (Différents etats : En attente authentification)
+(Afficher tous les objets grisés, potions slots vides,..)
+
+
+<?php
+// Handling data in JSON format on the server-side using PHP
+//
+header("Content-Type: application/json");
+// build a PHP variable from JSON sent using POST method
+$v = json_decode(stripslashes(file_get_contents("php://input")));
+// build a PHP variable from JSON sent using GET method
+$v = json_decode(stripslashes($_GET["data"]));
+// encode the PHP variable to JSON and send it back on client-side
+echo json_encode($v);
+?>
