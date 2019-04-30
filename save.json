@@ -1,0 +1,403 @@
+{
+  "shuffle_seed_count": 0,
+  "metric_purchased_purges": 0,
+  "metric_path_per_floor": [],
+  "monster_list": [
+    "2 Louse",
+    "Jaw Worm",
+    "Exordium Thugs",
+    "Large Slime",
+    "3 Louse",
+    "Lots of Slimes",
+    "2 Fungi Beasts",
+    "Looter",
+    "Red Slaver",
+    "3 Louse",
+    "Large Slime",
+    "Blue Slaver",
+    "Exordium Wildlife",
+    "2 Fungi Beasts",
+    "Lots of Slimes"
+  ],
+  "metric_potions_floor_spawned": [],
+  "daily_mods": [
+    "Cursed Run",
+    "ControlledChaos",
+    "Lethality"
+  ],
+  "metric_campfire_choices": [],
+  "is_ascension_mode": false,
+  "metric_items_purchased": [],
+  "is_endless_mode": false,
+  "merchant_seed_count": 0,
+  "floor_num": 2,
+  "uncommon_relics": [
+    "Frozen Egg 2",
+    "Dodecahedron",
+    "Bottled Flame",
+    "The Courier",
+    "Letter Opener",
+    "Bottled Tornado",
+    "Singing Bowl",
+    "Sundial",
+    "Question Card",
+    "Pear",
+    "Bottled Lightning",
+    "Ornamental Fan",
+    "Molten Egg 2",
+    "Matryoshka",
+    "Mummified Hand",
+    "Shuriken",
+    "Symbiotic Virus",
+    "Cables",
+    "Gremlin Horn",
+    "Mercury Hourglass",
+    "Toxic Egg 2",
+    "Kunai",
+    "Meat on the Bone",
+    "Pantograph",
+    "Blue Candle"
+  ],
+  "post_combat": false,
+  "combo": false,
+  "relics": [
+    "Cursed Key",
+    "Darkstone Periapt",
+    "Du-Vu Doll",
+    "Frozen Eye"
+  ],
+  "rare_relics": [
+    "Prayer Wheel",
+    "Dead Branch",
+    "Bird Faced Urn",
+    "Old Coin",
+    "FossilizedHelix",
+    "Mango",
+    "Ginger",
+    "Pocketwatch",
+    "Gambling Chip",
+    "Incense Burner",
+    "Peace Pipe",
+    "Ice Cream",
+    "Turnip",
+    "Torii",
+    "Girya",
+    "Nunchaku",
+    "WingedGreaves",
+    "Calipers",
+    "Unceasing Top",
+    "StoneCalendar",
+    "Shovel",
+    "Emotion Chip",
+    "Thread and Needle"
+  ],
+  "level_name": "Exordium",
+  "metric_campfire_rested": 0,
+  "max_orbs": 3,
+  "boss": "Hexaghost",
+  "seed": 5114170758115261822,
+  "metric_current_hp_per_floor": [
+    75
+  ],
+  "current_health": 75,
+  "common_relics": [
+    "DataDisk",
+    "Dream Catcher",
+    "Bronze Scales",
+    "Bag of Marbles",
+    "Ancient Tea Set",
+    "Whetstone",
+    "War Paint",
+    "MawBank",
+    "Smiling Mask",
+    "Vajra",
+    "Tiny Chest",
+    "Art of War",
+    "Blood Vial",
+    "Lantern",
+    "Happy Flower",
+    "Oddly Smooth Stone",
+    "Pen Nib",
+    "Boot",
+    "Strawberry",
+    "Anchor",
+    "Omamori",
+    "Bag of Preparation",
+    "Centennial Puzzle",
+    "Juzu Bracelet",
+    "Regal Pillow",
+    "Potion Belt",
+    "Orichalcum",
+    "PreservedInsect"
+  ],
+  "monsters_killed": 1,
+  "gold": 114,
+  "neow_bonus": "",
+  "card_random_seed_count": 0,
+  "card_seed_count": 9,
+  "is_daily": true,
+  "metric_campfire_rituals": 0,
+  "metric_card_choices": [
+    {
+      "not_picked": [
+        "Double Energy",
+        "Sweeping Beam"
+      ],
+      "picked": "Streamline",
+      "floor": 1
+    }
+  ],
+  "metric_potions_obtained": [],
+  "is_final_act_on": false,
+  "treasure_seed_count": 0,
+  "metric_event_choices": [],
+  "current_room": "com.megacrit.cardcrawl.rooms.EventRoom",
+  "has_emerald_key": false,
+  "boss_relics": [
+    "Coffee Dripper",
+    "Empty Cage",
+    "Snecko Eye",
+    "Ectoplasm",
+    "Velvet Choker",
+    "Sozu",
+    "Philosopher\u0027s Stone",
+    "Lizard Tail",
+    "White Beast Statue",
+    "Runic Dome",
+    "Runic Pyramid",
+    "Nuclear Battery",
+    "Pandora\u0027s Box",
+    "Astrolabe",
+    "FrozenCore",
+    "Eternal Feather",
+    "Orrery",
+    "Calling Bell",
+    "Inserter",
+    "Tiny House",
+    "Busted Crown",
+    "Fusion Hammer",
+    "Black Star"
+  ],
+  "blue": 0,
+  "path_y": [
+    0,
+    1
+  ],
+  "path_x": [
+    4,
+    4
+  ],
+  "metric_item_purchase_floors": [],
+  "gold_gained": 15,
+  "ascension_level": 0,
+  "one_time_event_list": [
+    "Accursed Blacksmith",
+    "Bonfire Elementals",
+    "Designer",
+    "Duplicator",
+    "FaceTrader",
+    "Fountain of Cleansing",
+    "Knowing Skull",
+    "Lab",
+    "N\u0027loth",
+    "SecretPortal",
+    "The Joust",
+    "WeMeetAgain",
+    "The Woman in Blue"
+  ],
+  "card_random_seed_randomizer": 3,
+  "metric_campfire_meditates": 0,
+  "perfect": 0,
+  "mugged": false,
+  "metric_build_version": "2019-01-23",
+  "event_list": [
+    "Big Fish",
+    "The Cleric",
+    "Dead Adventurer",
+    "Golden Idol",
+    "Golden Wing",
+    "World of Goop",
+    "Liars Game",
+    "Living Wall",
+    "Mushrooms",
+    "Scrap Ooze",
+    "Shining Light"
+  ],
+  "elite_monster_list": [
+    "Lagavulin",
+    "3 Sentries",
+    "Lagavulin",
+    "Gremlin Nob",
+    "3 Sentries",
+    "Gremlin Nob",
+    "3 Sentries",
+    "Lagavulin",
+    "Gremlin Nob",
+    "3 Sentries"
+  ],
+  "metric_seed_played": "5114170758115261822",
+  "red": 4,
+  "elites3_killed": 0,
+  "relic_counters": [
+    -1,
+    -1,
+    0,
+    -1
+  ],
+  "elites2_killed": 0,
+  "metric_items_purged_floors": [],
+  "potion_seed_count": 1,
+  "blights": [],
+  "elites1_killed": 0,
+  "overkill": false,
+  "neow_cost": "",
+  "metric_floor_reached": 2,
+  "champions": 0,
+  "smoked": false,
+  "spirit_count": 0,
+  "special_seed": 18016,
+  "potion_chance": 10,
+  "shop_relics": [
+    "Medical Kit",
+    "Chemical X",
+    "Lee\u0027s Waffle",
+    "OrangePellets",
+    "MealTicket",
+    "Toolbox",
+    "Membership Card",
+    "TheAbacus",
+    "HandDrill",
+    "Strange Spoon",
+    "ClockworkSouvenir",
+    "Runic Capacitor",
+    "PrismaticShard",
+    "Sling",
+    "DollysMirror",
+    "Toy Ornithopter",
+    "Cauldron"
+  ],
+  "custom_mods": [],
+  "metric_path_taken": [
+    "M",
+    "?"
+  ],
+  "name": "Motyak",
+  "has_ruby_key": false,
+  "metric_playtime": 50,
+  "has_sapphire_key": false,
+  "is_trial": false,
+  "metric_max_hp_per_floor": [
+    75
+  ],
+  "save_date": 1556591715852,
+  "cards": [
+    {
+      "upgrades": 0,
+      "misc": 0,
+      "id": "Strike_B"
+    },
+    {
+      "upgrades": 0,
+      "misc": 0,
+      "id": "Strike_B"
+    },
+    {
+      "upgrades": 0,
+      "misc": 0,
+      "id": "Strike_B"
+    },
+    {
+      "upgrades": 0,
+      "misc": 0,
+      "id": "Strike_B"
+    },
+    {
+      "upgrades": 0,
+      "misc": 0,
+      "id": "Defend_B"
+    },
+    {
+      "upgrades": 0,
+      "misc": 0,
+      "id": "Defend_B"
+    },
+    {
+      "upgrades": 0,
+      "misc": 0,
+      "id": "Defend_B"
+    },
+    {
+      "upgrades": 0,
+      "misc": 0,
+      "id": "Defend_B"
+    },
+    {
+      "upgrades": 0,
+      "misc": 0,
+      "id": "Zap"
+    },
+    {
+      "upgrades": 0,
+      "misc": 0,
+      "id": "Dualcast"
+    },
+    {
+      "upgrades": 0,
+      "misc": 0,
+      "id": "Streamline"
+    }
+  ],
+  "endless_increments": [],
+  "metric_items_purged": [],
+  "purgeCost": 75,
+  "room_x": 4,
+  "blight_counters": [],
+  "room_y": 1,
+  "metric_gold_per_floor": [
+    114
+  ],
+  "metric_potions_floor_usage": [],
+  "boss_list": [
+    "Hexaghost",
+    "The Guardian",
+    "Slime Boss"
+  ],
+  "ai_seed_count": 0,
+  "event_chances": [
+    0.0,
+    0.1,
+    0.03,
+    0.02
+  ],
+  "metric_boss_relics": [],
+  "relic_seed_count": 5,
+  "act_num": 1,
+  "metric_damage_taken": [
+    {
+      "damage": 0,
+      "enemies": "Cultist",
+      "floor": 1,
+      "turns": 3
+    }
+  ],
+  "green": 0,
+  "mystery_machine": 1,
+  "metric_campfire_upgraded": 0,
+  "potion_slots": 3,
+  "chose_neow_reward": false,
+  "event_seed_count": 0,
+  "metric_relics_obtained": [],
+  "daily_date": 18016,
+  "obtained_cards": {
+    "Streamline": 1
+  },
+  "play_time": 50,
+  "hand_size": 5,
+  "max_health": 75,
+  "monster_seed_count": 33,
+  "potions": [
+    "Potion Slot",
+    "Potion Slot",
+    "Potion Slot"
+  ]
+}

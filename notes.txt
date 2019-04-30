@@ -1,2 +1,12 @@
-En soit y'a que les ''' qui font fichier du coup faudrait juste remplacer 
-leur code unicode par le caractere et banko?
+Role du client :
+-Se connecter a la BDD (le client est unique/permet de s'authentifier)
+-Connaitre le chemin du jeu (a partir du processus SlayTheSpire.exe)
+-Regarder le contenu du fichier log pour savoir quand faire le decodage et l'envoi de la save
+-Decoder la save (Base64 -> text au format JSON)
+-Envoyer le fichier JSON a la BDD, id_utilisateur->save
+(Différents etats : En attente lancement du jeu,En marche)
+
+Role du site :
+-S'authentifier avec l'id
+-Afficher certains infos du JSON
+(Différents etats : En attente authentification)
